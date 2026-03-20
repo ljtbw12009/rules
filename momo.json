@@ -46,7 +46,7 @@
     {
       "tag": "🇺🇸自建节点",
       "type": "shadowsocks",
-      "server": "14.17.92.172",
+      "server": "2409:8c54:810:a05:3914:2101:0:1013",
       "server_port": 33410,
       "method": "aes-256-gcm",
       "password": "nwHM5vCWf3XEVhbbRmxbwijOrK2iUqgvcBM1z4MRjDvE"
