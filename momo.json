@@ -37,11 +37,11 @@
     {"tag": "🎮 Steam", "type": "selector", "outbounds": ["🛫 订阅节点", "🇭🇰香港(自动)", "🇹🇼台湾(自动)", "🇯🇵日本(自动)", "🇸🇬新加坡(自动)", "🇺🇸美国(自动)", "🎯 全球直连", "🇺🇸自建节点"]},    
     {"tag": "🐟 漏网之鱼", "type": "selector", "outbounds": ["🛫 订阅节点", "🇭🇰香港(自动)", "🇹🇼台湾(自动)", "🇯🇵日本(自动)", "🇸🇬新加坡(自动)", "🇺🇸美国(自动)", "🎯 全球直连", "🇺🇸自建节点"]},
     {"tag": "🎯 全球直连", "type": "direct"},
-    {"tag": "🇭🇰香港(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇭🇰|HK|hk|香港|港|HongKong"]}], "interval": "10m", "tolerance": 10},
-    {"tag": "🇹🇼台湾(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇹🇼|TW|tw|台湾|台|Taiwan"]}], "interval": "10m", "tolerance": 30},
-    {"tag": "🇯🇵日本(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇯🇵|JP|jp|日本|日|Japan"]}], "interval": "10m", "tolerance": 20},
-    {"tag": "🇸🇬新加坡(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇸🇬|SG|新加坡|坡|狮城|Singapore"]}], "interval": "10m", "tolerance": 20},
-    {"tag": "🇺🇸美国(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇺🇸|US|us|美国|美|United States"]}], "interval": "10m", "tolerance": 50},
+    {"tag": "🇭🇰香港(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇭🇰|HK|hk|香港|HongKong"]}], "interval": "10m", "tolerance": 10},
+    {"tag": "🇹🇼台湾(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇹🇼|TW|tw|台湾|Taiwan"]}], "interval": "10m", "tolerance": 30},
+    {"tag": "🇯🇵日本(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇯🇵|JP|jp|日本|Japan"]}], "interval": "10m", "tolerance": 20},
+    {"tag": "🇸🇬新加坡(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇸🇬|SG|新加坡|狮城|Singapore"]}], "interval": "10m", "tolerance": 20},
+    {"tag": "🇺🇸美国(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇺🇸|US|us|美国|United States"]}], "interval": "10m", "tolerance": 50},
     {"tag": "GLOBAL", "type": "selector", "outbounds": ["🪂 节点选择", "🛫 订阅节点", "🇺🇸自建节点"]}
   ],
   "route": {
