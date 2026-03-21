@@ -41,7 +41,7 @@
     {"tag": "🇹🇼台湾(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇹🇼|TW|tw|台湾|Taiwan"]}], "interval": "10m", "tolerance": 30},
     {"tag": "🇯🇵日本(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇯🇵|JP|jp|日本|Japan"]}], "interval": "10m", "tolerance": 20},
     {"tag": "🇸🇬新加坡(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇸🇬|SG|新加坡|狮城|Singapore"]}], "interval": "10m", "tolerance": 20},
-    {"tag": "🇺🇸美国(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["🇺🇸|US|us|美国|United States"]}], "interval": "10m", "tolerance": 50},
+    {"tag": "🇺🇸美国(自动)", "type": "urltest", "outbounds": ["{all}"], "filter": [{"action": "include", "keywords": ["US|us|美国|United States"]}], "interval": "10m", "tolerance": 50},
     {"tag": "GLOBAL", "type": "selector", "outbounds": ["🪂 节点选择", "🛫 订阅节点", "🇺🇸自建节点"]}
   ],
   "route": {
