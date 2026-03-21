@@ -45,11 +45,13 @@
     {"tag": "GLOBAL", "type": "selector", "outbounds": ["🪂 节点选择", "🛫 订阅节点", "🇺🇸自建节点"]},
     {
       "tag": "🇺🇸自建节点",
-      "type": "shadowsocks",
-      "server": "2409:8c54:810:a05:3914:2101:0:1013",
-      "server_port": 33410,
-      "method": "aes-256-gcm",
-      "password": "nwHM5vCWf3XEVhbbRmxbwijOrK2iUqgvcBM1z4MRjDvE"
+      "type": "socks",
+      "server": "23.27.123.248",
+      "server_port": 27441,
+      "version": "5",
+      "username": "Liou",
+      "password": "LJdqq12009",
+      "detour": "🛫 订阅节点"
     }
   ],
   "route": {
