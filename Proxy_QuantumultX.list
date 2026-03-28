@@ -1,0 +1,32 @@
+# 代理补充列表
+
+# 域名后缀匹配
+HOST-SUFFIX,qichiyu.com,Proxy
+
+# 域名关键字匹配
+HOST-KEYWORD,pornhub,Proxy
+HOST-KEYWORD,xvideos,Proxy
+HOST-KEYWORD,91porn,Proxy
+HOST-KEYWORD,xhopen,Proxy
+HOST-KEYWORD,youjizz,Proxy
+HOST-KEYWORD,javhd,Proxy
+
+# 国外DNS
+HOST-SUFFIX,dns.google,Proxy
+HOST-SUFFIX,1dot1dot1dot1.cloudflare-dns.com,Proxy
+HOST-SUFFIX,dot.sb,Proxy
+HOST-SUFFIX,dns.umbrella.com,Proxy
+HOST-SUFFIX,dns.quad9.net,Proxy
+HOST-SUFFIX,dns.google,Proxy
+HOST-SUFFIX,cloudflare-dns.com,Proxy
+HOST-SUFFIX,doh.dns.sb,Proxy
+HOST-SUFFIX,doh.opendns.com,Proxy
+HOST-SUFFIX,dns.quad9.net,Proxy
+HOST-SUFFIX,hk-hkg.doh.sb,Proxy
+IP-CIDR,8.8.8.8/32,Proxy
+IP-CIDR,8.8.4.4/32,Proxy
+IP-CIDR,1.1.1.1/32,Proxy
+IP-CIDR,1.0.0.1/32,Proxy
+IP-CIDR,185.222.222.222/32,Proxy
+IP-CIDR,208.67.222.222/32,Proxy
+IP-CIDR,208.67.220.220/32,Proxy
