@@ -30,3 +30,30 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
+# NAME: Patreon
+# UPDATED: 2024-01-08 16:02:55
+# TOTAL: 4
+DOMAIN,live-patreon-marketing.pantheonsite.io
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,patreoncommunity.com
+DOMAIN-SUFFIX,patreonusercontent.com
+
+# NAME: MEGA
+# UPDATED: 2025-06-06 09:17:45
+# TOTAL: 14
+DOMAIN-SUFFIX,mega.co.nz
+DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,mega.nz
+IP-CIDR,185.206.24.0/22,no-resolve
+IP-CIDR,66.203.126.0/23,no-resolve
+IP-CIDR,94.24.36.0/23,no-resolve
+IP-CIDR6,2a0b:e40:1::/48,no-resolve
+IP-CIDR6,2a0b:e40:2::/47,no-resolve
+IP-CIDR6,2a0b:e41:1::/48,no-resolve
+IP-CIDR6,2a0b:e42:1::/48,no-resolve
+IP-CIDR6,2a0b:e43:1::/48,no-resolve
+IP-CIDR6,2a0b:e44:1::/48,no-resolve
+IP-CIDR6,2a0b:e45:1::/48,no-resolve
+PROCESS-NAME,mega.privacy.android.app
+
