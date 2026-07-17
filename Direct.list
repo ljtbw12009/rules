@@ -11,3 +11,6 @@ IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
+
+DOMAIN-SUFFIX,ultramobile.com
+DOMAIN-SUFFIX,ddnsto.com
