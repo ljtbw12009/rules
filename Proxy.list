@@ -1,16 +1,5 @@
 # 代理补充列表
 
-# 域名后缀匹配
-DOMAIN-SUFFIX,qichiyu.com
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,pornhub
-DOMAIN-KEYWORD,xvideos
-DOMAIN-KEYWORD,91porn
-DOMAIN-KEYWORD,xhopen
-DOMAIN-KEYWORD,youjizz
-DOMAIN-KEYWORD,javhd
-
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
