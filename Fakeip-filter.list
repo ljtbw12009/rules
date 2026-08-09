@@ -18,6 +18,7 @@ heartbeat.belkin.com
 *.router.asus.com
 local.adguard.org
 injections.adguard.org
+WORKGROUP
 
 # > 2. 运营商一键登录 & 金融风控 (防止环境异常/关闭代理警告)
 id6.me
@@ -115,6 +116,8 @@ ps.res.netease.com
 +.dynv6.net
 proxy.golang.org
 shark007.net
++.services.googleapis.cn
+lens.l.google.com
 
 # > 8. 仅限确定“走直连”的国服游戏/平台 (国服加速)
 +.srv.nintendo.net
