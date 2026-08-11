@@ -43,10 +43,8 @@ DOMAIN-KEYWORD,time.google.com
 DOMAIN-KEYWORD,time.windows.com
 
 # 4. STUN / Turn 语音打洞
-DOMAIN-KEYWORD,stun.
-DOMAIN-KEYWORD,.stun
-DOMAIN-KEYWORD,turn.
-DOMAIN-KEYWORD,.turn
+DOMAIN-SUFFIX,stun.stunprotocol.org
+DOMAIN-SUFFIX,stun.l.google.com
 DOMAIN-SUFFIX,3gppnetwork.org
 
 # 5. 系统网络连通性检测与 APNs 推送
