@@ -2,6 +2,12 @@
   "version": 2,
   "rules": [
     {
+      "domain": [
+        "direct.575637175.xyz",
+        "evoxt.575637175.xyz"
+      ]
+    },
+    {
       "domain_suffix": [
         "ultramobile.com",
         "ddnsto.com",
